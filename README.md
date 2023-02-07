@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SAEID KHATER
 - 👀 I’m interested in Web Development, Ethical Hacking, Artificial Intelligence, Astronomy
-- 🌱 I’m currently learning about Artificial Intelligence
-- 📫 How to reach me http://saeidkhater.eb2a.com/
+- 🌱 I’m currently learning about Cybersecurity
+- 📫 How to reach me https://saeidkhater.rf.gd
 
 <!---
 SaeidMicro/SaeidMicro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
